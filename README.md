@@ -1,4 +1,4 @@
-# Hola, soy Natalia Junco ⭐ 
+# Hola, soy Natalia Junco ✨
 
 Estudiante de Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey (CDMX). Me enfoco en desarrollo web, integración de APIs REST y datos.
 
@@ -10,10 +10,11 @@ Estudiante de Ingeniería en Tecnologías Computacionales en el Tecnológico de 
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| [0FraudStay](https://github.com/Nat-Junco/0FraudStay-caso-de-estudio) | Plataforma para reportar fraudes en rentas vacacionales: app iOS, dashboard web y API REST. Socio formador: Red por la Ciberseguridad CDMX | React, Axios, NestJS, MySQL, SwiftUI, JWT |
-| [Memoreto](https://github.com/Nat-Junco/Memoreto-caso-de-estudio) | Juego educativo de matemáticas con dashboard para docentes. Socio formador: UNAE, Ecuador | Unity, Astro, Plotly.js, Flask, SQLite |
-
-> Mis proyectos académicos son privados por políticas del Tec de Monterrey. Los casos de estudio muestran el sistema y mi participación; el código está disponible para revisión bajo solicitud.
+| [0FraudStay · Dashboard web](https://github.com/Nat-Junco/Equipo4_dashboardWeb) | Panel de administración para revisar y aprobar reportes de fraude en rentas vacacionales. Socio formador: Red por la Ciberseguridad CDMX (trabajo de equipo) | React, Vite, Axios, Recharts, JWT |
+| [0FraudStay · App iOS](https://github.com/Nat-Junco/0FraudStay_swiftUI_v1) | App para reportar fraudes y consultar guías antifraude (trabajo de equipo) | SwiftUI, XCTest, API REST |
+| [0FraudStay · Backend](https://github.com/Nat-Junco/Equipo4_Backend) | API REST del proyecto (trabajo de equipo) | NestJS, TypeScript, MySQL, JWT |
+| [Memoreto · Web](https://github.com/Nat-Junco/Construccion-deSoftwareWeb) | Dashboard docente y API para un juego educativo de matemáticas. Socio formador: UNAE, Ecuador (trabajo de equipo) | Astro, Plotly.js, Flask, SQLite |
+| [Memoreto · Juego](https://github.com/Nat-Junco/Construccion-deSoftwareUnity) | Juego educativo de matemáticas basado en memoretos (trabajo de equipo)  | Unity, C# |
 
 ## Tecnologías
 
