@@ -1,4 +1,4 @@
-# Hola, soy Natalia Junco
+# Hola, soy Natalia Junco ⭐ 
 
 Estudiante de Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey (CDMX). Me enfoco en desarrollo web, integración de APIs REST y datos.
 
